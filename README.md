@@ -157,7 +157,7 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 #### March 14, 2024
 #### March 13, 2024
 #### March 12, 2024
-+ ♕ Data Interpreter: An LLM Agent For Data Science ♕ - https://github.com/geekan/MetaGPT/blob/main/examples/di/README.md
++ ♕ Data Interpreter: An LLM Agent For Data Science - https://github.com/geekan/MetaGPT/blob/main/examples/di/README.md
 #### March 11, 2024
 + ♘ Multistep Consistency Models - https://github.com/openai/consistency_models
 #### March 10, 2024

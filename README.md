@@ -1,8 +1,8 @@
 # Timeline of LLMs
 
 ## Advancements and updates in LLMs including:
-1. Milestones like the release of ChatGPT and other foundation models ♔
-2. Impactful research papers and big AI releases ♕
+1. Milestones like the release foundation models ♔
+2. Impactful research papers and other releases from big AI corps ♕
 3. Famous blogposts and important news ♘
 
 <details>

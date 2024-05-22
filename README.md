@@ -6,6 +6,8 @@
 3. Famous blogposts and important news ♘
 4. Small, yet interesting blogs and papers ♙
 
+(I am not sure of the priorities in many cases. Edits through PRs are always welcome.)
+
 <details>
 <summary>2024</summary>
 
@@ -149,7 +151,7 @@
 ### March 17, 2024
 ### March 16, 2024
 ### March 15, 2024
-+ RAFT: Adapting Language Model to Domain Specific RAG - https://gorilla.cs.berkeley.edu/blogs/9_raft.html
++ ♘ RAFT: Adapting Language Model to Domain Specific RAG - https://gorilla.cs.berkeley.edu/blogs/9_raft.html
 ### March 14, 2024
 ### March 13, 2024
 ### March 12, 2024

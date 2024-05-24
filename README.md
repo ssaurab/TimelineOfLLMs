@@ -93,12 +93,12 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 #### May 16, 2024
 #### May 15, 2024
 #### May 14, 2024
-♔ Google Launches their generative video model Veo https://deepmind.google/technologies/veo/
-♘ Google’s Project Astra is announced in Google I/O along with several AI features in photo gallery (Android), Google Lens and Google Meet https://www.theverge.com/24153841/google-io-2024-ai-gemini-android-chrome-photos
++ ♔ Google Launches their generative video model Veo https://deepmind.google/technologies/veo/
++ ♘ Google’s Project Astra is announced in Google I/O along with several AI features in photo gallery (Android), Google Lens and Google Meet https://www.theverge.com/24153841/google-io-2024-ai-gemini-android-chrome-photos
 #### May 13, 2024
-♔ Hello GPT-4o "We’re announcing GPT-4o, our new flagship model that can reason across audio, vision, and text in real time." https://openai.com/index/hello-gpt-4o/
++ ♔ Hello GPT-4o "We’re announcing GPT-4o, our new flagship model that can reason across audio, vision, and text in real time." https://openai.com/index/hello-gpt-4o/
 #### May 12, 2024
-♙ Ilya Sutskever “If you really learn all of these, you’ll know 90% of what matters today” https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
++ ♙ Ilya Sutskever “If you really learn all of these, you’ll know 90% of what matters today” https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
 #### May 11, 2024
 #### May 10, 2024
 #### May 9, 2024

@@ -93,8 +93,10 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 #### May 16, 2024
 #### May 15, 2024
 #### May 14, 2024
+♔ Google Launches their generative video model Veo https://deepmind.google/technologies/veo/
 #### May 13, 2024
 #### May 12, 2024
+♘ Ilya Sutskever “If you really learn all of these, you’ll know 90% of what matters today” https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
 #### May 11, 2024
 #### May 10, 2024
 #### May 9, 2024

@@ -19,7 +19,7 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 | May                    |                    |                 |                    |            |                  |                    |
 |-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 | [1](#May-1-2024)            | [2](#May-2-2024)            | [3](#May-3-2024)            | [4](#May-4-2024)            | [5](#May-5-2024)            | [6](#May-6-2024)            | [7](#May-7-2024)            |
-| [8](#May-8-2024)            | [9](#May-9-2024)            | [10](#May-10-2024)          | [11](#May-11-2024)          | [12](#May-12-2024) ♘         | [13](#May-13-2024)          | [14](#May-14-2024) ♔         |
+| [8](#May-8-2024)            | [9](#May-9-2024)            | [10](#May-10-2024)          | [11](#May-11-2024)          | [12](#May-12-2024) ♘         | [13](#May-13-2024) ♔        | [14](#May-14-2024) ♔         |
 | [15](#May-15-2024)          | [16](#May-16-2024)          | [17](#May-17-2024)          | [18](#May-18-2024)          | [19](#May-19-2024)          | [20](#May-20-2024)          | [21](#May-21-2024)          |
 | [22](#May-22-2024)          | [23](#May-23-2024)          | [24](#May-24-2024)          | [25](#May-25-2024)          | [26](#May-26-2024)          | [27](#May-27-2024)          | [28](#May-28-2024)          |
 | [29](#May-29-2024)          | [30](#May-30-2024)          | [31](#May-31-2024)          |                             |                             |                             |                             |
@@ -94,9 +94,11 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 #### May 15, 2024
 #### May 14, 2024
 ♔ Google Launches their generative video model Veo https://deepmind.google/technologies/veo/
+♘ Google’s Project Astra is announced in Google I/O along with several AI features in photo gallery (Android), Google Lens and Google Meet https://www.theverge.com/24153841/google-io-2024-ai-gemini-android-chrome-photos
 #### May 13, 2024
+♔ Hello GPT-4o "We’re announcing GPT-4o, our new flagship model that can reason across audio, vision, and text in real time." https://openai.com/index/hello-gpt-4o/
 #### May 12, 2024
-♘ Ilya Sutskever “If you really learn all of these, you’ll know 90% of what matters today” https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
+♙ Ilya Sutskever “If you really learn all of these, you’ll know 90% of what matters today” https://arc.net/folder/D0472A20-9C20-4D3F-B145-D2865C0A9FEE
 #### May 11, 2024
 #### May 10, 2024
 #### May 9, 2024

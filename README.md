@@ -59,7 +59,7 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 |-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 | [1](#February-1-2024)            | [2](#February-2-2024)            | [3](#February-3-2024)            | [4](#February-4-2024)            | [5](#February-5-2024)            | [6](#February-6-2024)            | [7](#February-7-2024)            |
 | [8](#February-8-2024)            | [9](#February-9-2024)            | [10](#February-10-2024)          | [11](#February-11-2024)          | [12](#February-12-2024)          | [13](#February-13-2024)          | [14](#February-14-2024)          |
-| [15](#February-15-2024)          | [16](#February-16-2024)          | [17](#February-17-2024)          | [18](#February-18-2024)          | [19](#February-19-2024)          | [20](#February-20-2024)          | [21](#February-21-2024)          |
+| [15](#February-15-2024) ♔          | [16](#February-16-2024)          | [17](#February-17-2024)          | [18](#February-18-2024)          | [19](#February-19-2024)          | [20](#February-20-2024)          | [21](#February-21-2024)          |
 | [22](#February-22-2024)          | [23](#February-23-2024)          | [24](#February-24-2024)          | [25](#February-25-2024)          | [26](#February-26-2024)          | [27](#February-27-2024)          | [28](#February-28-2024)          |
 | [29](#February-29-2024)          | [30](#February-30-2024)          | [31](#February-31-2024)          |                             |                             |                             |                             |
 
@@ -193,6 +193,8 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 #### February 17, 2024
 #### February 16, 2024
 #### February 15, 2024
++ ♔ OpenAI Sora: Video generation models as world simulators is announced https://openai.com/index/video-generation-models-as-world-simulators/
++ ♕ Google releases Gemini 1.5 "The model delivers dramatically enhanced performance, with a breakthrough in long-context understanding across modalities." -  https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/ 
 #### February 14, 2024
 #### February 13, 2024
 #### February 12, 2024
@@ -228,7 +230,9 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 #### January 13, 2024
 #### January 12, 2024
 #### January 11, 2024
++ ♙ Bill Gates interviews Sam Altman: https://www.youtube.com/watch?v=PkXELH6Y2lM
 #### January 10, 2024
++ ♘ OpenAI introduces GPT Store: "We’re launching the GPT Store to help you find useful and popular custom versions of ChatGPT." - https://openai.com/index/introducing-the-gpt-store/ 
 #### January 9, 2024
 #### January 8, 2024
 #### January 7, 2024

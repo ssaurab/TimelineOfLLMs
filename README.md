@@ -43,8 +43,8 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 
 | Mar                    |                    |                 |                    |            |                  |                    |
 |-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-| [1](#March-1-2024)            | [2](#March-2-2024)            | [3](#March-3-2024)            | [4](#March-4-2024)            | [5](#March-5-2024)            | [6](#March-6-2024)            | [7](#March-7-2024)            |
-| [8](#March-8-2024)            | [9](#March-9-2024)            | [10](#March-10-2024)          | [11](#March-11-2024)          | [12 ♕](#March-12-2024)          | [13](#March-13-2024)          | [14](#March-14-2024)          |
+| [1](#March-1-2024)            | [2](#March-2-2024)            | [3](#March-3-2024)            | [4](#March-4-2024) ♙           | [5](#March-5-2024)            | [6](#March-6-2024)            | [7](#March-7-2024)            |
+| [8](#March-8-2024)            | [9](#March-9-2024)            | [10](#March-10-2024)          | [11](#March-11-2024)          | [12 ♕](#March-12-2024)          | [13](#March-13-2024) ♙         | [14](#March-14-2024)          |
 | [15 ♘](#March-15-2024)          | [16](#March-16-2024)          | [17](#March-17-2024)          | [18](#March-18-2024)          | [19](#March-19-2024)          | [20](#March-20-2024)          | [21](#March-21-2024)          |
 | [22](#March-22-2024)          | [23](#March-23-2024)          | [24](#March-24-2024)          | [25](#March-25-2024)          | [26](#March-26-2024)          | [27](#March-27-2024)          | [28](#March-28-2024)          |
 | [29](#March-29-2024)          | [30](#March-30-2024)          | [31](#March-31-2024)          |                             |                             |                             |                             |
@@ -70,7 +70,7 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 
 | Jan                    |                    |                 |                    |            |                  |                    |
 |-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
-| [1](#January-1-2024)            | [2](#January-2-2024)            | [3](#January-3-2024)            | [4](#January-4-2024)            | [5](#January-5-2024)            | [6](#January-6-2024)            | [7](#January-7-2024)            |
+| [1](#January-1-2024) ♙           | [2](#January-2-2024)            | [3](#January-3-2024)            | [4](#January-4-2024)            | [5](#January-5-2024)            | [6](#January-6-2024)            | [7](#January-7-2024)            |
 | [8](#January-8-2024)            | [9](#January-9-2024)            | [10](#January-10-2024)          | [11](#January-11-2024)          | [12](#January-12-2024)          | [13](#January-13-2024)          | [14](#January-14-2024)          |
 | [15](#January-15-2024)          | [16](#January-16-2024)          | [17](#January-17-2024)          | [18](#January-18-2024)          | [19](#January-19-2024)          | [20](#January-20-2024)          | [21](#January-21-2024)          |
 | [22](#January-22-2024)          | [23](#January-23-2024)          | [24](#January-24-2024)          | [25](#January-25-2024)          | [26](#January-26-2024)          | [27](#January-27-2024)          | [28](#January-28-2024)          |
@@ -162,6 +162,7 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 + ♘ RAFT: Adapting Language Model to Domain Specific RAG - https://gorilla.cs.berkeley.edu/blogs/9_raft.html
 #### March 14, 2024
 #### March 13, 2024
++ ♙ Large Language Models: Capabilities, Advancements, and Limitations - https://hatchworks.com/blog/gen-ai/large-language-models-guide/
 #### March 12, 2024
 + ♕ Data Interpreter: An LLM Agent For Data Science - https://github.com/geekan/MetaGPT/blob/main/examples/di/README.md
 #### March 11, 2024
@@ -174,6 +175,7 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 #### March 6, 2024
 #### March 5, 2024
 #### March 4, 2024
++ ♙ MIT Tech Review "Large language models can do jaw-dropping things. But nobody knows exactly why." - https://www.technologyreview.com/2024/03/04/1089403/large-language-models-amazing-but-nobody-knows-why/
 #### March 3, 2024
 #### March 2, 2024
 #### March 1, 2024
@@ -244,3 +246,4 @@ Note: Priorities are unclear in many cases. Edits through PRs are always welcome
 #### January 3, 2024
 #### January 2, 2024
 #### January 1, 2024
++ ♙ (Dec 23) Midjourney v6 is out: https://www.reddit.com/r/midjourney/comments/18use7d/version_1_to_6/ https://www.reddit.com/r/midjourney/comments/18nfyck/announcement_v6_is_out/

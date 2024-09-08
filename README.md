@@ -1,10 +1,10 @@
 # Timeline of LLMs
 
 ## Advancements and updates in LLMs and GenAI:
-1. Milestones like the release foundation models ♔
-2. Impactful research papers and other releases from big AI corps ♕
-3. Famous blogposts and important news ♘
-4. Small, yet interesting blogs and papers ♙
+1. ♔ - Milestones like the release foundation models 
+2. ♕ - Impactful research papers and other releases from big AI corps 
+3. ♘ - Famous blogposts and important news 
+4. ♙ - Small, yet interesting blogs and papers 
 
 
 The highest priority on a day is marked in the calendar below. This can help you tune out the noise.
@@ -224,6 +224,7 @@ The repo covers everything from applications, advancements to frameworks in LLMs
 #### Jun 10, 2024
 #### Jun 9, 2024
 #### Jun 8, 2024
++ ♘ What We’ve Learned From A Year of Building with LLMs - https://applied-llms.org/
 #### Jun 7, 2024
 #### Jun 6, 2024
 #### Jun 5, 2024
@@ -233,6 +234,7 @@ The repo covers everything from applications, advancements to frameworks in LLMs
 #### Jun 1, 2024
 #### May 31, 2024
 + ♘ An entirely open-source AI code assistant inside your editor - https://ollama.com/blog/continue-code-assistant
++ ♙ LLMs Aren’t Just “Trained On the Internet” Anymore - https://allenpike.com/2024/llms-trained-on-internet
 #### May 30, 2024
 + ♘ Claude can now use tools - https://www.anthropic.com/news/tool-use-ga
 #### May 29, 2024

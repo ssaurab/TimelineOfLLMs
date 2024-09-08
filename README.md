@@ -14,7 +14,7 @@ The repo covers everything from applications, advancements to frameworks in LLMs
 **Note:** Priorities are unclear in many cases and dates could be off by a few days. Edits through PRs are always welcome.
 
 <details>
-<summary>2024</summary>
+<summary>2024 (expand to access monthly view) </summary>
 
 <details>
 <summary>Sep</summary>

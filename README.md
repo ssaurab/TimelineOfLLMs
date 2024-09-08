@@ -7,11 +7,11 @@
 4. Small, yet interesting blogs and papers ♙
 
 
-The highest priority on a day is marked in the calendar below. This can help you tune out the noise.\
+The highest priority on a day is marked in the calendar below. This can help you tune out the noise.
 
-The repo covers everything from applications, advancements to frameworks in LLMs and GenAI.\
+The repo covers everything from applications, advancements to frameworks in LLMs and GenAI.
 
-Note: Priorities are unclear in many cases and dates could be off by a few days. Edits through PRs are always welcome.
+**Note:** Priorities are unclear in many cases and dates could be off by a few days. Edits through PRs are always welcome.
 
 <details>
 <summary>2024</summary>

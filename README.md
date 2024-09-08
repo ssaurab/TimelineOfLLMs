@@ -189,6 +189,7 @@ The repo covers everything from applications, advancements to frameworks in LLMs
 #### Jul 15, 2024
 #### Jul 14, 2024
 #### Jul 13, 2024
++ ♙ Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models - https://arxiv.org/abs/2406.02061
 #### Jul 12, 2024
 #### Jul 11, 2024
 #### Jul 10, 2024
@@ -198,45 +199,79 @@ The repo covers everything from applications, advancements to frameworks in LLMs
 #### Jul 6, 2024
 #### Jul 5, 2024
 #### Jul 4, 2024
++ ♙ ChatGPT just (accidentally) shared all of its secret rules – here's what we learned - https://www.techradar.com/computing/artificial-intelligence/chatgpt-just-accidentally-shared-all-of-its-secret-rules-heres-what-we-learned
 #### Jul 3, 2024
 #### Jul 2, 2024
++ ♙ Meta 3D Gen - https://ai.meta.com/research/publications/meta-3d-gen/
 #### Jul 1, 2024
++ ♙ My finetuned models beat OpenAI’s GPT-4 - https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html
 #### Jun 30, 2024
 #### Jun 29, 2024
 #### Jun 28, 2024
-#### Jun 27, 2024
+#### Jun 27, 2024 
++ ♙ Finding GPT-4’s mistakes with GPT-4 - https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/
++ ♙ Meta LLM Compiler - https://x.com/AIatMeta/status/1806361623831171318
++ ♙ From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data - https://arxiv.org/abs/2406.19292
 #### Jun 26, 2024
 #### Jun 25, 2024
++ ♙ How to think about creating a dataset for LLM finetuning evaluation - https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html
 #### Jun 24, 2024
 #### Jun 23, 2024
 #### Jun 22, 2024
 #### Jun 21, 2024
++ ♘ Testing Generative AI for Circuit Board Design - https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design
 #### Jun 20, 2024
++ ♘ Optimizing AI Inference at Character.AI - https://research.character.ai/optimizing-inference/
 #### Jun 19, 2024
++ ♙ Safe Superintelligence Inc. - https://ssi.inc/
 #### Jun 18, 2024
 #### Jun 17, 2024
++ ♙ https://github.com/AgentOps-AI/tokencost - https://github.com/AgentOps-AI/tokencost
++ ♙ Getting 50% (SoTA) on ARC-AGI with GPT-4o - https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt
 #### Jun 16, 2024
 #### Jun 15, 2024
 #### Jun 14, 2024
++ ♘ Making my local LLM voice assistant faster and more scalable with RAG - https://johnthenerd.com/blog/faster-local-llm-assistant/
 #### Jun 13, 2024
++ ♘ Dream Machine - https://news.ycombinator.com/front?day=2024-06-13
++ ♘ Uncensor any LLM with abliteration - https://huggingface.co/blog/mlabonne/abliteration
++ ♘ Cost Of Self Hosting Llama-3 8B-Instruct - https://blog.lytix.co/posts/self-hosting-llama-3
++ ♙ Turning the Tables on AI - https://ia.net/topics/turning-the-tables-on-ai
 #### Jun 12, 2024
 #### Jun 11, 2024
++ ♕ Announcing ARC Prize - https://arcprize.org/blog/launch
++ ♘ Meta Open-Sources MEGALODON LLM for Efficient Long Sequence Modeling - https://www.infoq.com/news/2024/06/meta-llm-megalodon/
++ ♘ Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B - https://arxiv.org/abs/2406.07394
 #### Jun 10, 2024
++ ♔ Apple Intelligence - https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/
++ ♙ OpenAI and Apple announce partnership to integrate ChatGPT into Apple experiences - https://openai.com/index/openai-and-apple-announce-partnership/
 #### Jun 9, 2024
++ ♘ A nanoGPT pipeline packed in a spreadsheet - github.com/dabochen
 #### Jun 8, 2024
++ ♕ Claude’s Character - https://www.anthropic.com/research/claude-character
 + ♘ What We’ve Learned From A Year of Building with LLMs - https://applied-llms.org/
 #### Jun 7, 2024
 #### Jun 6, 2024
++ ♕ Extracting Concepts from GPT-4 - https://openai.com/index/extracting-concepts-from-gpt-4/
++ ♙ AI in software engineering at Google: Progress and the path ahead - https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/
++ ♙ Artists are fleeing Instagram to keep their work out of Meta’s AI - https://www.washingtonpost.com/technology/2024/06/06/instagram-meta-ai-training-cara/
++ ♙ Breaking up is hard to do: Chunking in RAG applications - https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/
 #### Jun 5, 2024
++ ♕ Generative AI Handbook  - https://genai-handbook.github.io/
++ ♘ A Picture is Worth 170 Tokens: How Does GPT-4o Encode Images? - https://www.oranlooney.com/post/gpt-cnn/
 #### Jun 4, 2024
++ ♙ Deception abilities emerged in large language models - https://www.pnas.org/doi/epub/10.1073/pnas.2317967121
 #### Jun 3, 2024
 #### Jun 2, 2024
++ ♙ Teams of LLM Agents can Exploit Zero-Day Vulnerabilities - https://arxiv.org/abs/2406.01637
 #### Jun 1, 2024
++ ♙ Open-source load balancer for llama.cpp - https://github.com/distantmagic/paddler
 #### May 31, 2024
 + ♘ An entirely open-source AI code assistant inside your editor - https://ollama.com/blog/continue-code-assistant
 + ♙ LLMs Aren’t Just “Trained On the Internet” Anymore - https://allenpike.com/2024/llms-trained-on-internet
 #### May 30, 2024
 + ♘ Claude can now use tools - https://www.anthropic.com/news/tool-use-ga
++ ♙ Every Way To Get Structured Output From LLMs - https://www.boundaryml.com/blog/structured-output-from-llms
 #### May 29, 2024
 #### May 29, 2024
 + ♘ Introducing the Property Graph Index: A Powerful New Way to Build Knowledge Graphs with LLMs - https://www.llamaindex.ai/blog/introducing-the-property-graph-index-a-powerful-new-way-to-build-knowledge-graphs-with-llms
@@ -254,8 +289,10 @@ The repo covers everything from applications, advancements to frameworks in LLMs
 #### May 20, 2024
 + ♘ Google announces Firebase Genkit with Ollama support - https://ollama.com/blog/firebase-genkit
 #### May 19, 2024
++ ♘ CodeAid: A classroom deployment of an LLM-based programming assistant - https://austinhenley.com/blog/codeaid.html
 #### May 18, 2024
 #### May 17, 2024
++ ♘ Why We’re Deeply Invested in Making AI Better at Math Tutoring - https://blog.khanacademy.org/why-were-deeply-invested-in-making-ai-better-at-math-tutoring-and-what-weve-been-up-to-lately/
 #### May 16, 2024
 + ♙ ChatGPT-4o vs Math - https://www.sabrina.dev/p/chatgpt4o-vs-math
 #### May 15, 2024
@@ -355,6 +392,7 @@ The repo covers everything from applications, advancements to frameworks in LLMs
 #### April 16, 2024
 + ♙ Cognita: Building an Open Source, Modular, RAG applications for Production - https://www.truefoundry.com/blog/cognita-building-an-open-source-modular-rag-applications-for-production
 + ♙ Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length - https://arxiv.org/abs/2404.08801
++ ♙ Automating Complex Business Workflows with Cohere: Multi-Step Tool Use in Action - https://cohere.com/blog/multi-step-tool-use
 #### April 15, 2024
 #### April 14, 2024
 + ♙ Ask HN: Is RAG the Future of LLMs? - https://news.ycombinator.com/item?id=40034972
